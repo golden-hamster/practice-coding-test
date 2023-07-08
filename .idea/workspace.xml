@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5b3e840e-6c7e-4f79-82ee-ebb51bf5edbb" name="Changes" comment="Add">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex0708.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex0708.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,14 +40,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/gen03/study_javaSpring/coding_test/coding_test/build.gradle&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ex0707">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="untitled" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ex0708">
     <configuration name="ex0705" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex0705" />
       <module name="untitled" />
@@ -75,13 +69,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ex0708" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex0708" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ex0708" />
         <item itemvalue="Application.ex0707" />
         <item itemvalue="Application.ex0706_2" />
         <item itemvalue="Application.ex0706" />
         <item itemvalue="Application.ex0705" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -115,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688742624331</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add">
+      <created>1688827860419</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688827860419</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
