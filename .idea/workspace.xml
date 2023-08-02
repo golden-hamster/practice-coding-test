@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5b3e840e-6c7e-4f79-82ee-ebb51bf5edbb" name="Changes" comment="Add">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/study/ex0712.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/ex0712.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,20 +40,13 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/gen03/study_javaSpring/coding_test/coding_test/build.gradle&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ex0712">
-    <configuration name="ex0709" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="parctice.ex0709" />
-      <module name="untitled" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ex0709_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.ex0709_2" />
+  <component name="RunManager" selected="Application.ex0801">
+    <configuration name="MyMergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mysort.MyMergeSort" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="study.*" />
+          <option name="PATTERN" value="mysort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +54,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex0709_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.ex0709_3" />
+    <configuration name="MyMergeSort2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mysort.MyMergeSort2" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="study.*" />
+          <option name="PATTERN" value="mysort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex0711" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.ex0711" />
+    <configuration name="MyQuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mysort.MyQuickSort" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="study.*" />
+          <option name="PATTERN" value="mysort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,13 +93,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ex0801" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="parctice.ex0801" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="parctice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ex0801" />
+        <item itemvalue="Application.MyMergeSort" />
+        <item itemvalue="Application.MyMergeSort2" />
+        <item itemvalue="Application.MyQuickSort" />
         <item itemvalue="Application.ex0712" />
-        <item itemvalue="Application.ex0711" />
-        <item itemvalue="Application.ex0709_3" />
-        <item itemvalue="Application.ex0709_2" />
-        <item itemvalue="Application.ex0709" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689086062485</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add">
+      <created>1689111735824</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1689111735824</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

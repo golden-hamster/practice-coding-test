@@ -48,7 +48,6 @@ public class ex0712 {
         }
         for (int i = 0; i < n; i++) {
             System.out.println(a[i]);
-
         }
     }
 }
